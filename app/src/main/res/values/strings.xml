@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">CheTour</string>
+    <string name="cooperative_name">CheTour</string>
+    <string name="backArrow">back</string>
+    <string name="home_screen1">Chernivtsi is a city in western Ukraine, located in the northern part of the historical region of Bukovina,
+        near the Prut River. With a population of around 260,000, it is often called &quot;Little Vienna&quot;
+        due to its Austro-Hungarian architectural heritage.</string>
+    <string name="home_screen2">Chernivtsi is famous for its historic city center, cobblestone streets,
+        and landmarks like the Chernivtsi National University, a UNESCO World Heritage Site. The university,
+        housed in the former Residence of Bukovinian and Dalmatian Metropolitans, is an architectural
+        masterpiece designed by Josef Hlávka.
+The city is a cultural hub, known for its vibrant arts scene, annual literary festivals,
+        and theaters. It is also home to various museums, including the Bukovinian Diaspora Museum and
+        the Chernivtsi Museum of Local Lore. Its diverse heritage is reflected in its many churches, synagogues,
+        and other religious buildings.</string>
+    <string name="bacara">Bacara</string>
+    <string name="bacara_description">Kav\'yarna on Teatralna Square 6 is a cozy coffee shop located in the heart of Chernivtsi,
+        offering a picturesque view of the iconic Teatralna Square. Known for its high-quality 100% Arabica coffee,
+        it provides a welcoming atmosphere for locals and visitors alike. It’s an ideal spot to enjoy a cup of coffee while
+        exploring the cultural landmarks of the city.</string>
+    <string name="bacara_address">Stepana Bandery St, 4</string>
+    <string name="bacara_working_hours">Everyday 8AM-11PM</string>
+    <string name="lviv_croissants">Lviv Croissants</string>
+    <string name="lviv_croissants_description">Lviv Croissants on Teatralna Square in Chernivtsi is a popular café specializing in 
+        freshly baked croissants with a variety of sweet and savory fillings. Located near the vibrant Teatralna Square,
+        it offers a charming spot for a quick breakfast, snack, or coffee break while enjoying the city’s lively atmosphere.</string>
+    <string name="lviv_croissants_address">Stepana Bandery St, 3</string>
+    <string name="lviv_croissants_working_hours">Everyday 9AM-10PM</string>
+    <string name="tvoya_mriya">Tvoya Mriya</string>
+    <string name="tvoya_mriya_description">Tvoya Mriya Café, located at 45 Kobylyanska Street in Chernivtsi, offers a cozy and welcoming atmosphere. 
+        Known for its all-day breakfasts, delicious coffee, and prosecco, it’s a perfect spot for a relaxed meal or a quick coffee break.
+        The café is also pet-friendly, making it an ideal destination for animal lovers exploring the city.</string>
+    <string name="tvoya_mriya_address"> Kobylyans\'koi St, 45</string>
+    <string name="tvoya_mriya_working_hours">Weekdays 8AM-9PM</string>
+    <string name="tvoya_mriya_working_hours_additional">Weekend 9AM-10PM</string>
+    <string name="room_room">Room Room</string>
+    <string name="room_room_description">Room Room Café, located at 5 Nezalezhnosti Ave, Chernivtsi, offers a cozy atmosphere with a menu
+        featuring Pan-Asian cuisine, including dishes like bao with chicken, rice noodles with pork unagi, and various salads.
+        They also serve breakfast items, desserts, and a selection of beverages such as coffee, fresh juices, and teas.
+        The café operates daily from 9:00 AM to 10:00 PM.</string>
+    <string name="room_room_address">Nezalezhnosti Ave, 111</string>
+    <string name="room_room_working_hours">Everyday 9AM-10PM</string>
+    <string name="shosho">Shosho</string>
+    <string name="shosho_description">Shosho is a cozy restaurant in Chernivtsi known for its vibrant atmosphere and modern design. 
+        It offers a fusion of European and Ukrainian cuisine, featuring fresh ingredients and creative presentation. 
+        A great spot for casual dining or a special occasion!</string>
+    <string name="shosho_address">Khudyakova St, 1</string>
+    <string name="shosho_working_hours_">Wed-Mon 9AM-10PM</string>
+    <string name="shosho_working_hours_additional">Tue 10AM-10PM</string>
+    <string name="la_pasta">La pasta</string>
+    <string name="la_pasta_description">La Pasta is a charming Italian restaurant in Chernivtsi, 
+        celebrated for its authentic flavors and warm ambiance. Specializing in handmade pasta and wood-fired pizzas, 
+        it provides a true taste of Italy with a menu that also includes delicious desserts and fine wines. 
+        Perfect for a cozy meal or a romantic evening!</string>
+    <string name="la_pasta_address">Kobylyans\'koi St, 20</string>
+    <string name="la_pasta_working_hours">Everyday 9AM-11PM</string>
+    <string name="kasha_maslom">Kasha Maslom</string>
+    <string name="kasha_maslom_description">Kasha Maslom is a unique restaurant in Chernivtsi that combines traditional 
+        Ukrainian hospitality with a modern twist. Its menu highlights hearty Ukrainian dishes like varenyky, borscht, 
+        and creative takes on classic comfort foods. With its warm and inviting decor, it’s a perfect place to enjoy the 
+        rich flavors of Ukrainian cuisine.</string>
+    <string name="kasha_maslom_address">Geroyiv Maydanu St, 69</string>
+    <string name="kasha_maslom_working_hours">Mon-Sat 10AM-7PM</string>
+    <string name="kasha_maslom_working_hours_additional">Sun 10AM-5PM</string>
+    <string name="fayno">Fayno</string>
+    <string name="fayno_description">Fayno is a lively and stylish restaurant in Chernivtsi, offering a mix of European
+        and Ukrainian cuisine. Known for its vibrant atmosphere and exceptional service,
+        it’s a favorite spot for both casual meetups and celebrations. The diverse menu and trendy decor make
+        Fayno a must-visit destination for food lovers.</string>
+    <string name="fayno_location">Holovna St, 48</string>
+    <string name="fayno_working_hours">Everyday 10:30AM-10PM</string>
+    <string name="pronto_pizza">Pronto Pizza &amp; Sushi</string>
+    <string name="pronto_pizza_description">Pronto Pizza &amp; Sushi is a popular spot in Chernivtsi,
+        offering a delightful combination of Italian and Japanese cuisines. Known for its delicious pizzas,
+        fresh sushi rolls, and vibrant flavors, it caters to a variety of tastes. With its cozy atmosphere and
+        friendly service, Pronto Pizza &amp; Sushi is perfect for a casual meal with friends or family.</string>
+    <string name="pronto_pizza_location">Nezalezhnosti Ave, 90</string>
+    <string name="pronto_pizza_working_hours">Everyday 9AM-10PM</string>
+    <string name="vyshyvanka_day_square">Vyshyvanka Day Square</string>
+    <string name="vyshyvanka_day_square_description">The Vyshyvanka Day Square in Chernivtsi is a unique interactive space
+        dedicated to Ukrainian traditional culture. Located in the city center, it features paths paved with cobblestones,
+        modern benches, and waste bins. A distinctive feature of the square is its lighting: lanterns adorned with embroidery
+        patterns from various Ukrainian regions illuminate the area. Additionally, QR codes on the lanterns provide information
+        about the cultural significance of these patterns. The square also includes a children\'s playground, green areas,
+        and bicycle parking facilities.</string>
+    <string name="vyshyvanka_day_square_location">Kafedral\'na St, 2</string>
+    <string name="shevchenko_park">Shevchenko Park</string>
+    <string name="shevchenko_park_description">The Taras Shevchenko Park in Chernivtsi is a historic local monument of
+        garden and park art, established in 1830. Located at 1 Sadova Street, it is a popular spot for recreation and
+        cultural activities. The park covers an area of 16.9 hectares and features a lake, summer theater, amusement rides,
+        and numerous green spaces. In 1990, the park was named after Taras Shevchenko.</string>
+    <string name="shevchenko_park_location">Sadova St, 1А</string>
+    <string name="popivskyi_square">Popivskyi Square</string>
+    <string name="popivskyi_square_description">Popivskyi Square in Chernivtsi is located opposite the main building of the 
+        Yuriy Fedkovych Chernivtsi National University, on Kotsyubynsky Street, 2. This square is a popular place for students
+        and locals to relax. Popivskyi Square is an important part of Chernivtsi\'s urban space, blending historical
+heritage with modern landscaping elements, providing a comfortable environment for leisure and cultural events.</string>
+    <string name="popiviskyi_square_location">Universytets\'ka St, 58</string>
+    <string name="park_zhovtnevyy">Park Zhovtnevyy</string>
+    <string name="park_zhovtnevyy_description">Park Zhovtnevyy is one of the largest and most popular recreational areas in Chernivtsi. 
+        The park offers a peaceful escape with its lush greenery, walking paths, and serene atmosphere. It is a favorite spot for 
+        families, joggers, and anyone looking to relax outdoors. The park features playgrounds, sports facilities, and areas for 
+        picnics, making it ideal for people of all ages. Additionally, it often hosts cultural events and seasonal activities, 
+        adding vibrancy to the city\'s community life.</string>
+    <string name="park_zhovtnevyy_location">Pylypa Orlyka St, 4</string>
+    <string name="turkish_square">Turkish square</string>
+    <string name="turkish_square_description">Turkish Square is a charming and historically significant area in Chernivtsi,
+        located near the city center. It is named after the
+        city\'s historical connections with the Ottoman Empire.
+        The square features a blend of modern design and historical elements, including an old Turkish
+        well that serves as a centerpiece and a reminder of its past.
+Turkish Square is a popular spot for locals and visitors to relax, enjoy open-air events, and take in the
+        picturesque surroundings. Its proximity to Chernivtsi\'s architectural landmarks makes it an excellent stop
+        for tourists exploring the city\'s rich history and culture.</string>
+    <string name="turkish_square_location">Sahaidachnoho St, 45</string>
+    <string name="kobylyanska_street">Kobylyanska Street</string>
+    <string name="kobylyanska_street_description">Kobylyanska Street is one of the most famous and picturesque streets in
+        Chernivtsi, often referred to as the city\'s main pedestrian avenue. Named after the renowned Ukrainian writer
+        Olha Kobylyanska, the street is a cultural and historical gem, lined with beautiful buildings that showcase a 
+        mix of architectural styles, including Baroque, Art Nouveau, and Classical influences.
+The street is a vibrant hub filled with cafes, restaurants, boutiques, and souvenir shops, making it a favorite 
+        destination for both locals and tourists. Its cobblestone pavement and street lamps add to the charming, 
+        old-world atmosphere. Throughout the year, Kobylyanska Street hosts cultural events, street performances, 
+        and festivals, reflecting the city\'s lively and artistic spirit.</string>
+    <string name="kobylyanska_street_location">Kobylyanska Street</string>
+    <string name="chnu">Chernivtsi National University</string>
+    <string name="chnu_description">Chernivtsi National University, officially known as Yuriy Fedkovych Chernivtsi National
+        University, is one of the most iconic landmarks in Chernivtsi and a UNESCO World Heritage Site. Established in
+        1875 during the Austro-Hungarian Empire, the university is renowned for its stunning architecture, particularly
+        the main building, which was originally the Residence of Bukovinian and Dalmatian Metropolitans.
+Designed by Czech architect Josef Hlávka, the complex features a blend of Byzantine, Romanesque, and Gothic styles,
+        with intricate details, colorful roof tiles, and spacious courtyards. The university grounds include a beautiful
+        park and gardens, offering a serene atmosphere for students and visitors alike.</string>
+    <string name="chnu_location">Kotsyubyns\'koho St, 2</string>
+    <string name="filarmonii">Filarmonii Square</string>
+    <string name="filarmonii_description">Philharmonic Square is a historic and cultural landmark in Chernivtsi, 
+        located in the heart of the city. This picturesque square is named after the Chernivtsi Regional Philharmonic 
+        Society, housed in a beautiful historic building that has been a hub for musical and cultural events since the 
+        19th century.
+Surrounded by charming architecture reflecting the Austro-Hungarian period, the square features a welcoming atmosphere 
+        with cobblestone paving, benches, and greenery.</string>
+    <string name="filarmonii_location">Filarmonii Square</string>
+    <string name="teatrlana_square">Teatral\'na Square</string>
+    <string name="teatralna_description">Teatralna Square is one of the most iconic and culturally rich locations in
+        Chernivtsi. Known as the heart of the city\'s theatrical and artistic life, the square is
+        home to the Chernivtsi Regional Music and Drama Theater named after Olha Kobylyanska, a
+        stunning architectural masterpiece built in the early 20th century in the Neo-Baroque style.
+The square is surrounded by beautifully preserved buildings showcasing a mix of architectural styles
+        from the Austro-Hungarian period. Its landscaped greenery, fountains, and open spaces make it a favorite
+        gathering place for locals and visitors. Teatralna Square often hosts performances, cultural events, and festivals, reflecting the city\'s vibrant artistic tradition.
+Whether you\'re enjoying a theatrical performance or simply soaking in the historic ambiance, Teatralna
+        Square is a must-visit destination that embodies the cultural charm of Chernivtsi.</string>
+    <string name="teatralna_location">Teatral\'na Square, 2</string>
+</resources>
